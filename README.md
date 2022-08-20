@@ -2,7 +2,7 @@
 
 ![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
 
-### - [Challenge](https://dillon-porter.github.io/Blogr-landing-page/_)
+### - [Challenge](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP)
 ### - [Solution](https://dillon-porter.github.io/Blogr-landing-page/)
 
 ## Welcome! 👋
